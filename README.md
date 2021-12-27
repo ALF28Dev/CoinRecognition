@@ -36,4 +36,4 @@ After training the model I performed some testing. I used images which were not 
 
 # Evaluation
 
-more data
+I thought this was a really interesting first project as an introduction to object detection. By using detecto the process of develping a model was a lot more simple. I think i could improve the model by including more labeled images within the Training and Validation datasets. The more data the model has to learn from the better it should perform.
