@@ -15,6 +15,9 @@ Once I had collected the images i used some software called LabelImg. It allows 
 <img width="1173" alt="Screenshot 2021-12-27 at 20 32 00" src="https://user-images.githubusercontent.com/87500491/147505377-ec756404-5393-473a-9856-354ca47b7ea6.png">
 
 # Model Training
+
+Training an object detection model requires quite a lot of processing power. To make the model training process more effective I utilised Google Colaboratory. It is ideal for me because they provide a free GPU to users. After gathering the training data and labeling the images i placed the images and XML files into a folder on my google drive and i started training the model.
+
 <img width="642" alt="Screenshot 2021-12-26 at 21 40 01" src="https://user-images.githubusercontent.com/87500491/147420660-b41b3760-eb42-4c44-a513-2d1da3adadb6.png">
 
 # Losses
@@ -24,5 +27,10 @@ Once I had collected the images i used some software called LabelImg. It allows 
 <img width="458" alt="Screenshot 2021-12-26 at 21 38 55" src="https://user-images.githubusercontent.com/87500491/147420643-3cee1b82-f893-4dba-a41a-9fe100df5afa.png">
 
 # Evaluation
+
+more data
+
+
+
 
 
