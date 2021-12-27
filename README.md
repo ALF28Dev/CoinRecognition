@@ -21,6 +21,9 @@ Training an object detection model requires quite a lot of processing power. To 
 <img width="642" alt="Screenshot 2021-12-26 at 21 40 01" src="https://user-images.githubusercontent.com/87500491/147420660-b41b3760-eb42-4c44-a513-2d1da3adadb6.png">
 
 # Losses
+
+After training the model I was able to examine how the accuracy of its results have changed during the training process. As you can see from the chart the accuracy does gradually improve over time. This is good news however the results are nowhere near perfect and there is a lot of room for improvement.
+
 <img width="392" alt="Screenshot 2021-12-26 at 21 39 16" src="https://user-images.githubusercontent.com/87500491/147420647-5183cf7c-5bd9-4036-a8cb-49df40369a9f.png">
 
 # Model Testing
