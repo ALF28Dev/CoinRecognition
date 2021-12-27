@@ -27,7 +27,10 @@ After training the model I was able to examine how the accuracy of its results h
 <img width="376" alt="Screenshot 2021-12-27 at 20 43 47" src="https://user-images.githubusercontent.com/87500491/147506002-414b7679-6934-4e55-85b0-d734b3e7ed80.png">
 
 # Model Testing
-<img width="458" alt="Screenshot 2021-12-26 at 21 38 55" src="https://user-images.githubusercontent.com/87500491/147420643-3cee1b82-f893-4dba-a41a-9fe100df5afa.png">
+
+After training the model I performed some testing. I used images which were not in the training dataset to prevent any bias in the results. The resukts were nowhere near perfect however it is able to recognise 50p coins quite well. I used a hashmap to storee the number of each coin detected in the image.
+
+<img width="542" alt="Screenshot 2021-12-27 at 20 55 37" src="https://user-images.githubusercontent.com/87500491/147506624-72dbafad-b7b9-43af-b44a-fdb4d4a89ae7.png">
 
 # Evaluation
 
