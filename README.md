@@ -1,6 +1,6 @@
 # About CoinRecognition
 
-<img width="1016" alt="Screenshot 2021-12-27 at 20 57 29" src="https://user-images.githubusercontent.com/87500491/147506719-39cc8f21-5d07-4014-bdaf-08e1270a0330.png">
+<img width="1013" alt="Screenshot 2021-12-27 at 20 58 40" src="https://user-images.githubusercontent.com/87500491/147506782-d0c3d7c1-d7e9-444c-83a3-1eec921c273a.png">
 
 During my first term at university, I spoke to a friend at a party about counting coins. He suggested it would be awesome if an app could recognise the coins and count them. I immediately told him that I could attempt to develop an object detection model which would be capable of performing such calculations. I had done some previous projects before using object detection, so I thought it would be a great challenge to attempt.
 
