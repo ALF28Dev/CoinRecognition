@@ -2,11 +2,11 @@
 
 <img width="1013" alt="Screenshot 2021-12-27 at 20 58 40" src="https://user-images.githubusercontent.com/87500491/147506782-d0c3d7c1-d7e9-444c-83a3-1eec921c273a.png">
 
-During my first term at university, I spoke to a friend at a party about counting coins. He suggested it would be awesome if an app could recognise the coins and count them. I immediately told him that I could attempt to develop an object detection model capable of performing such calculations. I had done some previous projects before using object detection, so I thought it would be a great challenge to attempt.
+During my first term at university, I spoke to a friend at a party about counting coins. He suggested it would be awesome if an app could recognise and count the coins. I immediately told him that we could attempt to develop an object detection model capable of performing such calculations. I had done some previous projects before using object detection, so I thought it would be a great challenge to attempt.
 
 # Data Collection
 
-The first step of developing an object detection model is gathering training data. I had some spare change lying around, so I started taking pictures of different coins in various layouts. This was one of my first ML projects, so I wasn't sure how many images I would need. I decided to start with a few pictures and then collect more over time. I started with about 35 images. At the time, I was aware that I would probably need a lot more pictures to develop a very good model; however, as this was the first project, I was more interested in building a functioning model.
+The first step of developing an object detection model is gathering training data. I had some spare change, so I started taking pictures of different coins in various layouts. This was one of my first ML projects, so I wasn't sure how many images I would need. I decided to start with a few pictures and then collect more over time. I started with about 35 images. At the time, I was aware that I would probably need many more pictures to develop a very good model; however, as this was the first project, I was more interested in building a functioning model.
 
 <img width="750" alt="Screenshot 2021-12-27 at 20 33 17" src="https://user-images.githubusercontent.com/87500491/147505456-2f0ed998-4ea8-4204-b0d0-c5595adeea15.png">
 
